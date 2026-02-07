@@ -19,9 +19,9 @@
 #
 ---
 include:
-  - board: mikoto
+  - board: mikoto@7
     shield: lily58_left
-  - board: mikoto
+  - board: mikoto@7
     shield: lily58_right
-  - board: mikoto
+  - board: mikoto@7
     shield: settings_reset
